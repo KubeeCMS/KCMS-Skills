@@ -916,7 +916,6 @@ blockquote p {
 .comment-metadata .comment-reply {
     display: inline-block;
     text-align: right;
-    float: right;
 }
 .related-entries {
     margin-top: 50px;
